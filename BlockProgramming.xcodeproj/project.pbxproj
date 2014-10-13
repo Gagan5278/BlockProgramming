@@ -298,6 +298,7 @@
 				CE035D0F1909410C0013B543 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
